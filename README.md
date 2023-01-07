@@ -1,2 +1,2 @@
 # GoDaddy-finamples
-# finamples.study
+https://finamples.study/
